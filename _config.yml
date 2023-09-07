@@ -4,7 +4,7 @@ baseurl: /uvsg/
 # Site settings
 title: United Veterans Service Group
 email: # your-email@domain.com
-description: "Providing Solutions for Government Contracting."
+description: "Providing Solutions for Government Contracting. A Service-Disabled Veteran-Owned Certified Business."
 
 
 # Team names, titles and social links
@@ -13,8 +13,8 @@ people:
   pic: 2
   position: President
   social:
-    - title: # twitter
-      url: #
+    # - title: # twitter
+    #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
