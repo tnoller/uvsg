@@ -10,16 +10,16 @@ description: "Providing Solutions for Government Contracting."
 # Team names, titles and social links
 people:
 - name: Jeffrey Boers
-  pic: # 1
-  position: Founder
+  pic: 2
+  position: President
   social:
-    - title: twitter
+    - title: # twitter
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: # http://twitter.com/jekyllrb
+  # - title: linkedin
+  #   url: # http://twitter.com/jekyllrb
  
 # Postal address (add as many lines as necessary)
 address:
