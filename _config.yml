@@ -4,7 +4,7 @@ baseurl: /uvsg/
 # Site settings
 title: United Veterans Service Group
 email: # your-email@domain.com
-description: "Providing Solutions for Government Contracting. A Service-Disabled Veteran-Owned Certified Business."
+description: "Providing Solutions for Government Contracting. A Service-Disabled Veteran-Owned Small Business."
 
 
 # Team names, titles and social links
@@ -15,6 +15,7 @@ people:
   social:
     # - title: # twitter
     #   url: #
+  bio: "Jeff Boers, President of United Veterans Service Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -25,6 +26,10 @@ social:
 address:
   - line: # 3481 Melrose Place
   - line: # Beverly Hills, CA 90210
+
+# Web analytics settings
+analytics:
+  google: #Google Analytics tracking code here
 
 # Build settings
 markdown: kramdown
