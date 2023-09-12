@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: policy
 title: Privacy Policy
 ---
 ### GENERAL STATEMENT ABOUT THIS PRIVACY POLICY
@@ -47,4 +47,4 @@ We may update this privacy policy from time to time for personal, operational, l
 
 ### CONTACT US
 
-For more information about our privacy practices or if you have questions, please contact us using <a href="/uvsg/#contact">this form.</a>.
+For more information about our privacy practices or if you have questions, please contact us using <a href="{{ site.url }}/uvsg/#contact">this form.</a>.
