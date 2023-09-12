@@ -1,21 +1,14 @@
 $(function() {
 
   $("input,textarea").jqBootstrapValidation({
-    preventSubmit: false,
+    preventSubmit: true,
     submitError: function($form, event, errors) {
       // additional error messages or events
     },
     submitSuccess: function($form, event) {
 
-      var name = $("input#name").val();
-      var email = $("input#email").val();
-      var phone = $("input#phone").val();
-      var message = $("textarea#message").val();
 
-      // debugging
-      console.log("FORM: " + name + ", " + phone + ", " + email + ", " + message);
-
-        // Success message
+        /* // Success message
           $('#success').html("<div class='alert alert-success'>");
           $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
             .append("</button>");
@@ -24,8 +17,8 @@ $(function() {
           $('#success > .alert-success')
             .append('</div>');
           //clear all fields
-          $('#contactForm').trigger("reset");
-
+          // $('#contactForm').trigger("reset");
+ */
     //   event.preventDefault(); // prevent default submit behaviour
     //   // get values from FORM
 	//   var url = "https://formspree.io/f/xvojrlyl";
