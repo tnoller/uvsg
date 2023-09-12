@@ -5,7 +5,7 @@ title: Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
 
-**PERSONAL INFORMATION WE COLLECT**
+### PERSONAL INFORMATION WE COLLECT
 
 {% if site.analytics.google %}
 
@@ -31,4 +31,4 @@ We may update this privacy policy from time to time for personal, operational, l
 
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us using <a href="/#contact">this form.</a>.
+For more information about our privacy practices or if you have questions, please contact us using <a href="/uvsg/#contact">this form.</a>.
