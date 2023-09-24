@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: HR & Administrative
+subtitle: 
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+modal-id: 2
+#date: 2014-07-16
+img: hr.jpg
+thumbnail: hr.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

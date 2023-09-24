@@ -9,13 +9,34 @@ description: "Providing Solutions for Government Contracting. A Service-Disabled
 
 # Team names, titles and social links
 people:
-- name: Jeffrey Boers
-  pic: 2
+- name: Jeff Boers
+  pic: jb
   position: President
   social:
     # - title: # twitter
     #   url: #
   bio: "Jeff Boers, President of United Veterans Service Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."
+- name: Paul
+  pic: p
+  position: 
+  social:
+    # - title: # twitter
+    #   url: #
+  bio: "Paul..."  
+- name: Chris Owen
+  pic: co
+  position: 
+  social:
+    # - title: # twitter
+    #   url: #
+  bio: "Chris..."  
+- name: Tom Whitehead
+  pic: tw
+  position: 
+  social:
+    # - title: # twitter
+    #   url: #
+  bio: "Tom..."   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
