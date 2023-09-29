@@ -2,7 +2,7 @@ url: https://tnoller.github.io
 baseurl: /uvsg/
 
 # Site settings
-title: United Veterans Service Group
+title: United Veterans Staffing Group
 email: # your-email@domain.com
 description: "Providing Solutions for Government Contracting. A Service-Disabled Veteran-Owned Small Business."
 
@@ -15,28 +15,28 @@ people:
   social:
     # - title: # twitter
     #   url: #
-  bio: "Jeff Boers, President of United Veterans Service Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."
+  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."
 - name: Paul
   pic: p
   position: President
   social:
     # - title: # twitter
     #   url: #
-  bio: "Jeff Boers, President of United Veterans Service Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."  
+  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."  
 - name: Chris Owen
   pic: co
   position: President
   social:
     # - title: # twitter
     #   url: #
-  bio: "Jeff Boers, President of United Veterans Service Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."  
+  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."  
 - name: Tom Whitehead
   pic: tw
   position: President
   social:
     # - title: # twitter
     #   url: #
-  bio: "Jeff Boers, President of United Veterans Service Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."   
+  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
