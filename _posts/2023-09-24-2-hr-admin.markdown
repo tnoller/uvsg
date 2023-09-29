@@ -10,8 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: We work across sectors to help create lasting placements for human resources professionals at top companies in and around Washington, D.C.
-
-Our team builds meaningful connections between HR and business operations professionals and clients, fostering lasting relationships based on expertise and shared goals.
+description: We work across sectors to help create lasting placements for human resources professionals at top companies in and around Washington, D.C. Our team builds meaningful connections between HR and business operations professionals and clients, fostering lasting relationships based on expertise and shared goals.
 
 ---
