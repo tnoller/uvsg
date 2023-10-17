@@ -9,34 +9,39 @@ description: "Providing Solutions for Government Contracting. A Service-Disabled
 
 # Team names, titles and social links
 people:
-- name: Jeff Boers
+- name: Jeff
   pic: jb
   position: President
   social:
     # - title: # twitter
     #   url: #
-  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."
+  bio: "Jeff Boers, President of United Veterans Staffing Group, is a Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."
+
+- name: Chris
+  pic: co
+  position: Vice President
+  social:
+    # - title: # twitter
+    #   url: #
+  bio: "Chris is the CEO of one of the largest, private recruiting agencies in the DC Metro area, and brings decades of staffing and leadership experience to the United Veterans Staffing Group enterprise."  
+
+- name: Tom
+  pic: tw
+  position: Managing Director Operations
+  social:
+    # - title: # twitter
+    #   url: #
+  bio: "Tom oversees all Federal & Project Staffing for UVSG.  During his 20+ years in staffing he’s led diverse teams across multiple disciplines, and been responsible for standing-up federal engagements ranging in headcount from 50 to over 400."   
+
 - name: Paul
   pic: p
-  position: President
+  position: Managing Director Business Development
   social:
     # - title: # twitter
     #   url: #
-  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."  
-- name: Chris Owen
-  pic: co
-  position: President
-  social:
-    # - title: # twitter
-    #   url: #
-  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."  
-- name: Tom Whitehead
-  pic: tw
-  position: President
-  social:
-    # - title: # twitter
-    #   url: #
-  bio: "Jeff Boers, President of United Veterans Staffing Group, is a widely accomplished, well-credentialed, and self-directed Executive Leader and Special Operations veteran with over 30 years leading complex organizations and programs on a global stage."   
+  bio: "Paul Addington is the Vice President of United Veterans Staffing Group. Previously Paul founded and operated Pro-Pave Inc, one the largest asphalt paving and concrete companies in the Mid Atlantic."  
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
